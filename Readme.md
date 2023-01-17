@@ -1,5 +1,5 @@
 # Hi! I'm Kshitij 👋🏽👨🏽‍💻
-![banner](./banner.png)
+![banner](https://imgur.com/08vZPQe)
 I'm a Software Engineer who is passionate about the development of AI and it's integration and acceptance into our society. I believe that using AI and Data Analytics, we can make a lot of jobs of both skilled and unskilled job sector easier to deal with, while making a lot of comodities and services available to everyone more accessible to the masses!
 ## Find me around the web 🌏:
 * [Email](mailto:chaharkshitij@gmail.com)
