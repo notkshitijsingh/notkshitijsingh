@@ -6,6 +6,7 @@ I'm a Software Engineer who is passionate about the development of AI and it's i
 
 ## Find me around the web 🌏:
 
+- [Portfolio](https://notkshitijsingh.github.io/)
 - [Email](mailto:chaharkshitij@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/kshitijsingh-lnkdin/)
 - [Twitter](https://twitter.com/kshitijsinghtwt)
