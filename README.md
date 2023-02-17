@@ -10,3 +10,6 @@ I'm a Software Engineer who is passionate about the development of AI and it's i
 - 📧 [Email](mailto:chaharkshitij@gmail.com)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/kshitijsingh-lnkdin/)
 - 🐤 [Twitter](https://twitter.com/kshitijsinghtwt)
+
+## My stats 🔥:
+![Kshitij's GitHub stats](https://github-readme-stats.vercel.app/api?username=notkshitijsingh&show_icons=true&theme=transparent&hide_border=true)
