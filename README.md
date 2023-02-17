@@ -8,5 +8,5 @@ I'm a Software Engineer who is passionate about the development of AI and it's i
 
 - 🌐 [Portfolio](https://notkshitijsingh.github.io/)
 - 📧 [Email](mailto:chaharkshitij@gmail.com)
-- ![LinkedIn](https://img.shields.io/badge/LinkedIn-blue) [LinkedIn](https://www.linkedin.com/in/kshitijsingh-lnkdin/)
-- ![LinkedIn](https://img.shields.io/badge/Twitter-blue) [Twitter](https://twitter.com/kshitijsinghtwt)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/kshitijsingh-lnkdin/)
+- 🐤 [Twitter](https://twitter.com/kshitijsinghtwt)
