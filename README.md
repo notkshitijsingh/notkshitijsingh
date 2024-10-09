@@ -12,3 +12,5 @@ I'm a Software Engineer who is passionate about the development of AI and it's i
 - 📧 [Email](mailto:chaharkshitij@gmail.com)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/kshitijsingh-lnkdin/)
 - 🐤 [Twitter](https://twitter.com/kshitijsinghtwt)
+
+- ## [Play a game since you're here anyway](https://gregarious-creponne-f4774f.netlify.app/)
