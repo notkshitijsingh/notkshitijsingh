@@ -13,4 +13,6 @@ I'm a Software Engineer who is passionate about the development of AI and it's i
 - 🔗 [LinkedIn](https://www.linkedin.com/in/kshitijsingh-lnkdin/)
 - 🐤 [Twitter](https://twitter.com/kshitijsinghtwt)
 
-<p align='center'>[Play a game I made for you game since you're here anyway](https://gregarious-creponne-f4774f.netlify.app/)</p>
+<p align='center'>
+[Play a game I made for you game since you're here anyway](https://gregarious-creponne-f4774f.netlify.app/)
+</p>
