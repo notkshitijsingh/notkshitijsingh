@@ -14,3 +14,4 @@ I'm a Software Engineer who is passionate about the development of AI and it's i
 - 🐤 [Twitter](https://twitter.com/kshitijsinghtwt)
 
 [Play a game I made for you game since you're here anyway](https://gregarious-creponne-f4774f.netlify.app/)
+![](https://komarev.com/ghpvc/?username=notkshitijsingh&color=red)
