@@ -3,7 +3,7 @@
 ![Banner](https://github.com/user-attachments/assets/4f55828c-272f-4be1-a3fd-f61c9079f5a5)
 
 <p align='center'>
-I'm a Software Engineer who is passionate about the development of AI and it's integration and acceptance into our society. I believe that using AI and Data Analytics, we can make a lot of jobs of both skilled and unskilled job sector easier to deal with, while making a lot of comodities and services available to everyone more accessible to the masses!
+I'm a Software Engineer who is passionate about the development of AI and it's integration and acceptance into our society. I believe that using AI and Data Analytics, we can make a lot of jobs of both skilled and unskilled job sector easier to deal with, while making a lot of comodities and services available to everyone more accessible to the masses.
 </p>
 
 ## Find me around the web 🌏:
